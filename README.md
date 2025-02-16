@@ -1,2 +1,3 @@
 # LogicConcepts.2025
-Estudy Estructure Dates
+
+Esto es un Repositorio para estudiar Estructura de Datos se utulizara C# y VisualEstudio
