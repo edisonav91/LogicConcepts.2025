@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{02EA681E-C7D8-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isNumberOddOrNot", "isNumberOddOrNot\isNumberOddOrNot.csproj", "{6BC13D16-FCD2-4A76-A004-2C7F8762E4FE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{DEA7A04D-7B66-451C-A0E1-E92DA31A961F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGreathestNumber", "TheGreathestNumber\TheGreathestNumber.csproj", "{3F67BFC0-F9E2-49E5-B940-88C7C1ACD808}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{6BC13D16-FCD2-4A76-A004-2C7F8762E4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BC13D16-FCD2-4A76-A004-2C7F8762E4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BC13D16-FCD2-4A76-A004-2C7F8762E4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F67BFC0-F9E2-49E5-B940-88C7C1ACD808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F67BFC0-F9E2-49E5-B940-88C7C1ACD808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F67BFC0-F9E2-49E5-B940-88C7C1ACD808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F67BFC0-F9E2-49E5-B940-88C7C1ACD808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6BC13D16-FCD2-4A76-A004-2C7F8762E4FE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{3F67BFC0-F9E2-49E5-B940-88C7C1ACD808} = {DEA7A04D-7B66-451C-A0E1-E92DA31A961F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B070FCE8-F75B-43F3-8B46-B284AC33C273}
