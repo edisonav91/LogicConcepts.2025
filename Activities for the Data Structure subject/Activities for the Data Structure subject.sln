@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Activities for the Data Structure subject", "Activities for the Data Structure subject", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TimeClass", "TimeClass", "{8E5A903C-B408-47A8-96F4-40DC2B282C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClass1", "..\..\..\..\..\..\..\..\Projects\ActivitiesDataStructure#1\TimeClass1\TimeClass1.csproj", "{F4F3703B-3A1E-464F-8791-B5B9A3EC0C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F3703B-3A1E-464F-8791-B5B9A3EC0C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F3703B-3A1E-464F-8791-B5B9A3EC0C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F3703B-3A1E-464F-8791-B5B9A3EC0C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F3703B-3A1E-464F-8791-B5B9A3EC0C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E5A903C-B408-47A8-96F4-40DC2B282C5D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F4F3703B-3A1E-464F-8791-B5B9A3EC0C9C} = {8E5A903C-B408-47A8-96F4-40DC2B282C5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947F3B4C-3AB8-471D-B8AF-4CD300085485}
+	EndGlobalSection
+EndGlobal
